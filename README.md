@@ -18,6 +18,10 @@ The application provides a practical demonstration of these design patterns in a
 - **Observer**: Shows the one-to-many dependency between objects, where multiple observers are notified and updated when the state of the subject changes.
 - **Strategy**: Exhibits the ability to select and switch between interchangeable strategies at runtime, enabling dynamic behavior changes.
 
+## App Structure
+
+![img_12.png](img_12.png)
+
 ## Implementation
 
 ### Chain of Responsability
@@ -52,3 +56,7 @@ The Strategy pattern enables the selection of an algorithm at runtime from a fam
 ![img_9.png](img_9.png)
 ![img_10.png](img_10.png)
 ![img_11.png](img_11.png)
+
+### Results after execution 
+
+![img_13.png](img_13.png)

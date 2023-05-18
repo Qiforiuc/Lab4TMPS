@@ -13,7 +13,7 @@ import domain.chainofresponsibility.Handler;
 import domain.observer.Subject;
 import domain.observer.Observer;
 
-public class Main {
+public class DesignPatternApp {
   public static void main(String[] args) {
     // Chain of Responsibility
     Handler handler1 = new ConcreteHandler1();

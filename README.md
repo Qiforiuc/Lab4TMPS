@@ -60,3 +60,13 @@ The Strategy pattern enables the selection of an algorithm at runtime from a fam
 ### Results after execution 
 
 ![img_13.png](img_13.png)
+
+### Conclusion
+
+In conclusion, this laboratory work has provided hands-on experience in implementing and utilizing several important design patterns in Java. By building the Design Pattern App, we gained a practical understanding of the Chain of Responsibility, Command, Observer, and Strategy patterns.
+
+Throughout the development process, we learned the key concepts and principles behind each design pattern and their applicability in real-world scenarios. We observed how the Chain of Responsibility pattern enables the decoupling of request senders and receivers, how the Command pattern encapsulates actions as objects, how the Observer pattern establishes a publish-subscribe mechanism, and how the Strategy pattern allows for flexible algorithm selection at runtime.
+
+By applying these design patterns, we achieved increased modularity, flexibility, and maintainability in our code. Each pattern provided a distinct solution to common software design challenges, promoting better code organization and separation of concerns.
+
+Overall, this laboratory work has deepened our understanding of software design principles and design patterns. It has equipped us with valuable knowledge and skills to tackle future software engineering tasks, enabling us to create more robust and extensible applications through the effective application of design patterns.
